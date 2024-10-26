@@ -1,0 +1,9 @@
+/**/packages
+/**/TestResults
+/**/bin
+/**/obj
+/**/*.user
+/**/.vs
+/*.lutconfig
+/**/.idea
+/**/node_modules
